@@ -1,0 +1,500 @@
+Seq1: 03N35N
+Seq2: 05N50N554
+Optimal Alignment Score: 4
+Aligned Sequence 1 (Recorded): 0-3N35-N
+Aligned Sequence 2 (Verified): 05-N-50N
+Gap Counts:
+Seq1=   0
+Seq2=  2
+Percentage of Match: 44.44%
+----------------------------------------
+Seq1: P38080
+Seq2: 548996
+Optimal Alignment Score: 1
+Aligned Sequence 1 (Recorded): 8
+Aligned Sequence 2 (Verified): 8
+Gap Counts:
+Seq1=   0
+Seq2=  0
+Percentage of Match: 16.67%
+----------------------------------------
+Seq1: 4665N6N
+Seq2: N9456
+Optimal Alignment Score: 3
+Aligned Sequence 1 (Recorded): 4665N6
+Aligned Sequence 2 (Verified): 4--5-6
+Gap Counts:
+Seq1=   0
+Seq2=  3
+Percentage of Match: 60.00%
+----------------------------------------
+Seq1: 54N548
+Seq2: 5N4NN5P
+Optimal Alignment Score: 4
+Aligned Sequence 1 (Recorded): 5-4-N5
+Aligned Sequence 2 (Verified): 5N4NN5
+Gap Counts:
+Seq1=   0
+Seq2=  0
+Percentage of Match: 57.14%
+----------------------------------------
+Seq1: 45365NN55N
+Seq2: 9458N578
+Optimal Alignment Score: 4
+Aligned Sequence 1 (Recorded): 45-365NN5
+Aligned Sequence 2 (Verified): 458----N5
+Gap Counts:
+Seq1=   0
+Seq2=  4
+Percentage of Match: 50.00%
+----------------------------------------
+Seq1: 86060
+Seq2: 5N59645
+Optimal Alignment Score: 1
+Aligned Sequence 1 (Recorded): 6
+Aligned Sequence 2 (Verified): 6
+Gap Counts:
+Seq1=   0
+Seq2=  0
+Percentage of Match: 14.29%
+----------------------------------------
+Seq1: 535N00
+Seq2: 6468P45
+Optimal Alignment Score: 1
+Aligned Sequence 1 (Recorded): 5
+Aligned Sequence 2 (Verified): 5
+Gap Counts:
+Seq1=   0
+Seq2=  0
+Percentage of Match: 14.29%
+----------------------------------------
+Seq1: 47N84545N
+Seq2: 669540
+Optimal Alignment Score: 2
+Aligned Sequence 1 (Recorded): 54
+Aligned Sequence 2 (Verified): 54
+Gap Counts:
+Seq1=   0
+Seq2=  0
+Percentage of Match: 33.33%
+----------------------------------------
+Seq1: 35N84N55N
+Seq2: 5909N5
+Optimal Alignment Score: 3
+Aligned Sequence 1 (Recorded): 5---N84N5
+Aligned Sequence 2 (Verified): 5909---N5
+Gap Counts:
+Seq1=   0
+Seq2=  3
+Percentage of Match: 50.00%
+----------------------------------------
+Seq1: 05NP54
+Seq2: 60640
+Optimal Alignment Score: 2
+Aligned Sequence 1 (Recorded): 0-5NP54
+Aligned Sequence 2 (Verified): 06----4
+Gap Counts:
+Seq1=   0
+Seq2=  4
+Percentage of Match: 40.00%
+----------------------------------------
+Seq1: 80P45NN56
+Seq2: 5N4845
+Optimal Alignment Score: 3
+Aligned Sequence 1 (Recorded): 80P45
+Aligned Sequence 2 (Verified): 8--45
+Gap Counts:
+Seq1=   0
+Seq2=  2
+Percentage of Match: 50.00%
+----------------------------------------
+Seq1: 89845
+Seq2: 5N35N59
+Optimal Alignment Score: 1
+Aligned Sequence 1 (Recorded): 9
+Aligned Sequence 2 (Verified): 9
+Gap Counts:
+Seq1=   0
+Seq2=  0
+Percentage of Match: 14.29%
+----------------------------------------
+Seq1: 454PN9
+Seq2: N535545N3
+Optimal Alignment Score: 3
+Aligned Sequence 1 (Recorded): 454PN
+Aligned Sequence 2 (Verified): 45--N
+Gap Counts:
+Seq1=   0
+Seq2=  2
+Percentage of Match: 33.33%
+----------------------------------------
+Seq1: 645P73
+Seq2: 5NN5005
+Optimal Alignment Score: 1
+Aligned Sequence 1 (Recorded): 5
+Aligned Sequence 2 (Verified): 5
+Gap Counts:
+Seq1=   0
+Seq2=  0
+Percentage of Match: 14.29%
+----------------------------------------
+Seq1: 5N45N55N7P
+Seq2: 6N5NP95
+Optimal Alignment Score: 4
+Aligned Sequence 1 (Recorded): N45N--5
+Aligned Sequence 2 (Verified): N-5NP95
+Gap Counts:
+Seq1=   0
+Seq2=  1
+Percentage of Match: 57.14%
+----------------------------------------
+Seq1: 5744566N5
+Seq2: N5NN45745
+Optimal Alignment Score: 4
+Aligned Sequence 1 (Recorded): 57445
+Aligned Sequence 2 (Verified): 57-45
+Gap Counts:
+Seq1=   0
+Seq2=  1
+Percentage of Match: 44.44%
+----------------------------------------
+Seq1: 4585N05N6
+Seq2: 87908
+Optimal Alignment Score: 2
+Aligned Sequence 1 (Recorded): 8--5N0
+Aligned Sequence 2 (Verified): 879--0
+Gap Counts:
+Seq1=   0
+Seq2=  2
+Percentage of Match: 40.00%
+----------------------------------------
+Seq1: 4N54544
+Seq2: 75565
+Optimal Alignment Score: 2
+Aligned Sequence 1 (Recorded): 545
+Aligned Sequence 2 (Verified): 5-5
+Gap Counts:
+Seq1=   0
+Seq2=  1
+Percentage of Match: 40.00%
+----------------------------------------
+Seq1: 300337P
+Seq2: 05N565N49
+Optimal Alignment Score: 1
+Aligned Sequence 1 (Recorded): 0
+Aligned Sequence 2 (Verified): 0
+Gap Counts:
+Seq1=   0
+Seq2=  0
+Percentage of Match: 11.11%
+----------------------------------------
+Seq1: 4589595N
+Seq2: 46365
+Optimal Alignment Score: 2
+Aligned Sequence 1 (Recorded): 4---5
+Aligned Sequence 2 (Verified): 46365
+Gap Counts:
+Seq1=   0
+Seq2=  0
+Percentage of Match: 40.00%
+----------------------------------------
+Seq1: 454505N
+Seq2: N4548N
+Optimal Alignment Score: 4
+Aligned Sequence 1 (Recorded): 454-505N
+Aligned Sequence 2 (Verified): 4548---N
+Gap Counts:
+Seq1=   0
+Seq2=  3
+Percentage of Match: 66.67%
+----------------------------------------
+Seq1: 8N55PN5
+Seq2: 57N089
+Optimal Alignment Score: 2
+Aligned Sequence 1 (Recorded): 5-5PN
+Aligned Sequence 2 (Verified): 57--N
+Gap Counts:
+Seq1=   0
+Seq2=  2
+Percentage of Match: 33.33%
+----------------------------------------
+Seq1: 5P0P34
+Seq2: P506N5
+Optimal Alignment Score: 2
+Aligned Sequence 1 (Recorded): 5P0
+Aligned Sequence 2 (Verified): 5-0
+Gap Counts:
+Seq1=   0
+Seq2=  1
+Percentage of Match: 33.33%
+----------------------------------------
+Seq1: PN7P5
+Seq2: 95N5N5
+Optimal Alignment Score: 2
+Aligned Sequence 1 (Recorded): N7P5
+Aligned Sequence 2 (Verified): N--5
+Gap Counts:
+Seq1=   0
+Seq2=  2
+Percentage of Match: 33.33%
+----------------------------------------
+Seq1: 5N75PN5
+Seq2: 745N5N5N53
+Optimal Alignment Score: 5
+Aligned Sequence 1 (Recorded): 5N75PN5
+Aligned Sequence 2 (Verified): 5N-5-N5
+Gap Counts:
+Seq1=   0
+Seq2=  2
+Percentage of Match: 50.00%
+----------------------------------------
+Seq1: 5N690P45P
+Seq2: 955NNN
+Optimal Alignment Score: 2
+Aligned Sequence 1 (Recorded): 5N
+Aligned Sequence 2 (Verified): 5N
+Gap Counts:
+Seq1=   0
+Seq2=  0
+Percentage of Match: 33.33%
+----------------------------------------
+Seq1: N5N45845
+Seq2: 03N5P
+Optimal Alignment Score: 2
+Aligned Sequence 1 (Recorded): N5
+Aligned Sequence 2 (Verified): N5
+Gap Counts:
+Seq1=   0
+Seq2=  0
+Percentage of Match: 40.00%
+----------------------------------------
+Seq1: 4545645
+Seq2: N554574545
+Optimal Alignment Score: 6
+Aligned Sequence 1 (Recorded): 45-45645
+Aligned Sequence 2 (Verified): 45745-45
+Gap Counts:
+Seq1=   0
+Seq2=  1
+Percentage of Match: 60.00%
+----------------------------------------
+Seq1: 0480N55
+Seq2: P5N46N745
+Optimal Alignment Score: 3
+Aligned Sequence 1 (Recorded): 4-80N--5
+Aligned Sequence 2 (Verified): 46--N745
+Gap Counts:
+Seq1=   0
+Seq2=  2
+Percentage of Match: 33.33%
+----------------------------------------
+Seq1: P8N5507
+Seq2: N56P909
+Optimal Alignment Score: 3
+Aligned Sequence 1 (Recorded): N5---50
+Aligned Sequence 2 (Verified): N56P9-0
+Gap Counts:
+Seq1=   0
+Seq2=  1
+Percentage of Match: 42.86%
+----------------------------------------
+Seq1: 95N5433
+Seq2: 9N5P0N
+Optimal Alignment Score: 3
+Aligned Sequence 1 (Recorded): 9-5--N
+Aligned Sequence 2 (Verified): 9N5P0N
+Gap Counts:
+Seq1=   0
+Seq2=  0
+Percentage of Match: 50.00%
+----------------------------------------
+Seq1: N93689
+Seq2: 3754545
+Optimal Alignment Score: 1
+Aligned Sequence 1 (Recorded): 3
+Aligned Sequence 2 (Verified): 3
+Gap Counts:
+Seq1=   0
+Seq2=  0
+Percentage of Match: 14.29%
+----------------------------------------
+Seq1: 66P3N5
+Seq2: 6N5645N5N5
+Optimal Alignment Score: 4
+Aligned Sequence 1 (Recorded): 6--6--P3N5
+Aligned Sequence 2 (Verified): 6N5645--N5
+Gap Counts:
+Seq1=   0
+Seq2=  2
+Percentage of Match: 40.00%
+----------------------------------------
+Seq1: 495N55N
+Seq2: 5N7NN5
+Optimal Alignment Score: 3
+Aligned Sequence 1 (Recorded): 5---N5
+Aligned Sequence 2 (Verified): 5N7NN5
+Gap Counts:
+Seq1=   0
+Seq2=  0
+Percentage of Match: 50.00%
+----------------------------------------
+Seq1: 8450P47
+Seq2: 009445
+Optimal Alignment Score: 2
+Aligned Sequence 1 (Recorded): 45
+Aligned Sequence 2 (Verified): 45
+Gap Counts:
+Seq1=   0
+Seq2=  0
+Percentage of Match: 33.33%
+----------------------------------------
+Seq1: 85N4545N
+Seq2: N54376
+Optimal Alignment Score: 3
+Aligned Sequence 1 (Recorded): N454
+Aligned Sequence 2 (Verified): N-54
+Gap Counts:
+Seq1=   0
+Seq2=  1
+Percentage of Match: 50.00%
+----------------------------------------
+Seq1: 9P8PN546
+Seq2: 68648P
+Optimal Alignment Score: 2
+Aligned Sequence 1 (Recorded): 8P
+Aligned Sequence 2 (Verified): 8P
+Gap Counts:
+Seq1=   0
+Seq2=  0
+Percentage of Match: 33.33%
+----------------------------------------
+Seq1: 5N5N7744
+Seq2: P3N58N
+Optimal Alignment Score: 3
+Aligned Sequence 1 (Recorded): N5-N
+Aligned Sequence 2 (Verified): N58N
+Gap Counts:
+Seq1=   0
+Seq2=  0
+Percentage of Match: 50.00%
+----------------------------------------
+Seq1: P6450
+Seq2: 4575N954
+Optimal Alignment Score: 2
+Aligned Sequence 1 (Recorded): 45
+Aligned Sequence 2 (Verified): 45
+Gap Counts:
+Seq1=   0
+Seq2=  0
+Percentage of Match: 25.00%
+----------------------------------------
+Seq1: 95459N45N
+Seq2: 9N773
+Optimal Alignment Score: 2
+Aligned Sequence 1 (Recorded): 9N
+Aligned Sequence 2 (Verified): 9N
+Gap Counts:
+Seq1=   0
+Seq2=  0
+Percentage of Match: 40.00%
+----------------------------------------
+Seq1: 9707045
+Seq2: 9N55N366
+Optimal Alignment Score: 2
+Aligned Sequence 1 (Recorded): 9-707045
+Aligned Sequence 2 (Verified): 9N-----5
+Gap Counts:
+Seq1=   0
+Seq2=  5
+Percentage of Match: 25.00%
+----------------------------------------
+Seq1: 84N545N5
+Seq2: 6N54545453
+Optimal Alignment Score: 5
+Aligned Sequence 1 (Recorded): N545-N5
+Aligned Sequence 2 (Verified): N5454-5
+Gap Counts:
+Seq1=   0
+Seq2=  1
+Percentage of Match: 50.00%
+----------------------------------------
+Seq1: N54N5P5N5
+Seq2: 5N0P5P
+Optimal Alignment Score: 4
+Aligned Sequence 1 (Recorded): 54N--5P
+Aligned Sequence 2 (Verified): 5-N0P5P
+Gap Counts:
+Seq1=   0
+Seq2=  1
+Percentage of Match: 66.67%
+----------------------------------------
+Seq1: 0N585P3
+Seq2: 0N045N5N7
+Optimal Alignment Score: 4
+Aligned Sequence 1 (Recorded): 0N--5-85
+Aligned Sequence 2 (Verified): 0N045N-5
+Gap Counts:
+Seq1=   0
+Seq2=  1
+Percentage of Match: 44.44%
+----------------------------------------
+Seq1: N8P9
+Seq2: 8N5459N345
+Optimal Alignment Score: 2
+Aligned Sequence 1 (Recorded): N---8P9
+Aligned Sequence 2 (Verified): N545--9
+Gap Counts:
+Seq1=   0
+Seq2=  2
+Percentage of Match: 20.00%
+----------------------------------------
+Seq1: 3P6455
+Seq2: 5N79N5767
+Optimal Alignment Score: 2
+Aligned Sequence 1 (Recorded): 5----5
+Aligned Sequence 2 (Verified): 5N79N5
+Gap Counts:
+Seq1=   0
+Seq2=  0
+Percentage of Match: 22.22%
+----------------------------------------
+Seq1: 3NN55N
+Seq2: 545N38N5
+Optimal Alignment Score: 3
+Aligned Sequence 1 (Recorded): 3-NN5
+Aligned Sequence 2 (Verified): 38-N5
+Gap Counts:
+Seq1=   0
+Seq2=  1
+Percentage of Match: 37.50%
+----------------------------------------
+Seq1: P95998
+Seq2: 0PN55
+Optimal Alignment Score: 2
+Aligned Sequence 1 (Recorded): P-95
+Aligned Sequence 2 (Verified): PN-5
+Gap Counts:
+Seq1=   0
+Seq2=  1
+Percentage of Match: 40.00%
+----------------------------------------
+Seq1: N5P85NN
+Seq2: 454573039
+Optimal Alignment Score: 2
+Aligned Sequence 1 (Recorded): 5-P85
+Aligned Sequence 2 (Verified): 54--5
+Gap Counts:
+Seq1=   0
+Seq2=  2
+Percentage of Match: 22.22%
+----------------------------------------
+Seq1: 457800
+Seq2: 4P7N59P9
+Optimal Alignment Score: 2
+Aligned Sequence 1 (Recorded): 4---5
+Aligned Sequence 2 (Verified): 4P7N5
+Gap Counts:
+Seq1=   0
+Seq2=  0
+Percentage of Match: 25.00%
+----------------------------------------
